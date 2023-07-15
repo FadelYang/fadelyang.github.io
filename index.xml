@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>FadelYang Blog</title>
+        <link>http://fadelyang.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>id</language><lastBuildDate>Sun, 16 Jul 2023 05:44:23 &#43;0700</lastBuildDate>
+            <atom:link href="http://fadelyang.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>This is my first post in Hugo</title>
+    <link>http://fadelyang.github.io/posts/firstpost/</link>
+    <pubDate>Sun, 16 Jul 2023 05:44:23 &#43;0700</pubDate>
+    <author>Author</author>
+    <guid>http://fadelyang.github.io/posts/firstpost/</guid>
+    <description><![CDATA[This is some content
+echo &#34;Hello Hugo&#34;; ]]></description>
+</item>
+</channel>
+</rss>
