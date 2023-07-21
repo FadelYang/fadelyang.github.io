@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Just Share It</title>
+        <title>Fadela Numah Kadenza</title>
         <link>http://fadelyang.github.io/</link>
-        <description>Ini adalah Just Share It Website, website yang ditulis untuk menulis blog tentang perjalanan belajar menjadi seorang software engineer, terutama di bidang web development</description>
+        <description>Fadela Numah Kadenza is Software Engineer from Jakarta, Indonesia. He is focus on Web Development. He usually use PHP and Laravel with SQL database as his main technology stack.</description>
         <generator>Hugo -- gohugo.io</generator><language>id</language><managingEditor>fadelanumah@gmail.com (Fadela Numah Kadenza)</managingEditor>
             <webMaster>fadelanumah@gmail.com (Fadela Numah Kadenza)</webMaster><lastBuildDate>Sun, 16 Jul 2023 05:44:23 &#43;0700</lastBuildDate>
             <atom:link href="http://fadelyang.github.io/index.xml" rel="self" type="application/rss+xml" />
